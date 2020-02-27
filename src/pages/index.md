@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Sarajevo Hotel
 image: /img/exterior.JPG
-heading: Great coffee with a conscience
+heading: In the heart of old Sarajevo
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
